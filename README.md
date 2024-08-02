@@ -10,11 +10,11 @@ This is a machine learning application that detects spam emails. It is deployed 
 
 For more information on the model used in this application, please refer to the Jupyter Notebook in this repository: [[Spam Classificatioa machine learning application that detects spam emailsn Model](https://github.com/eym3n/spam-classification)]
 
-## Getting Started
+### Getting Started
 
 Download Docker Desktop for Mac or Windows. Docker Compose will be automatically installed. On Linux, make sure you have the latest version of Compose.
 
-## File Structure
+### File Structure
 
 The file structure of this Dockerized app is organized as follows:
 
@@ -23,7 +23,7 @@ The file structure of this Dockerized app is organized as follows:
 - **frontend/**: Contains the Next.js frontend code.
 - **nginx/**: Contains Nginx as our reverse proxy.
 
-## Usage
+### Usage
 
 To build the Docker containers, run the following command:
 
@@ -38,5 +38,7 @@ docker-compose up -d
 ```
 
 This will start all the services in the background. You can then access the application at `http://localhost`.
+
+### Ressources
 
 For more information on Docker and Docker Compose, please refer to the official documentation: [https://docs.docker.com/](https://docs.docker.com/)
