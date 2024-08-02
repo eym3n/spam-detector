@@ -6,11 +6,11 @@ This is a machine learning application that detects spam emails. It is deployed 
 - **Next.js Frontend**: Frontend interface built with Next.js.
 - **Nginx**: Acts as a reverse proxy between the API and the frontend.
 
-## ML Model
+### ML Model
 
-For more information on the model used in this application, please refer to the Jupyter Notebook in this repository: [[Spam Classification Model](https://github.com/eym3n/spam-classification)]
+For more information on the model used in this application, please refer to the Jupyter Notebook in this repository: [[Spam Classificatioa machine learning application that detects spam emailsn Model](https://github.com/eym3n/spam-classification)]
 
-### Getting Started
+## Getting Started
 
 Download Docker Desktop for Mac or Windows. Docker Compose will be automatically installed. On Linux, make sure you have the latest version of Compose.
 
