@@ -39,7 +39,7 @@ docker-compose up -d
 
 This will start all the services in the background. You can then access the application at `http://localhost`.
 
-### Ressources
+## Ressources
 
 For more information on the technologies used in this application, please refer to the following documentation:
 
