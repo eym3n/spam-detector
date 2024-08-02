@@ -1,6 +1,10 @@
 # Spam Email Detection App
 
-This is a machine learning application that detects spam emails. It is deployed using Docker with the following components:
+This is a machine learning application that detects spam emails.
+
+![Screenshot of the application](./screenshots/spam.png.png)
+
+This app is deployed using Docker with the following components:
 
 - **Flask API**: Backend API for the machine learning model.
 - **Next.js Frontend**: Frontend interface built with Next.js.
