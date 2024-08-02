@@ -12,7 +12,7 @@ This app is deployed using Docker with the following components:
 
 ### ML Model
 
-For more information on the model used in this application, please refer to the Jupyter Notebook in this repository: [[Spam Classificatioa machine learning application that detects spam emailsn Model](https://github.com/eym3n/spam-classification)]
+For more information on the model used in this application, please refer to the Jupyter Notebook in this repository: [[Spam Classification](https://github.com/eym3n/spam-classification)]
 
 ## Getting Started
 
