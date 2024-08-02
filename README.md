@@ -2,7 +2,7 @@
 
 This is a machine learning application that detects spam emails.
 
-![Screenshot of the application](./screenshots/spam.png)
+![Screenshot of the application](./screenshots/app.png)
 
 This app is deployed using Docker with the following components:
 
